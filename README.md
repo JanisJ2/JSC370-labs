@@ -36,7 +36,7 @@ Each week, lab materials are provided as both R Markdown (`.Rmd`) files and rend
 To work with the lab files:
 1. Clone this repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/JSC370-Labs.git
+   git clone https://github.com/JanisJ2/JSC370-labs.git
    ```
 2. Open any `.Rmd` file in RStudio to edit or render it.
 3. View the HTML files in your browser for an easy preview of lab results.
