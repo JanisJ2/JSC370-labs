@@ -27,7 +27,7 @@ Each week, lab materials are provided as both R Markdown (`.Rmd`) files and rend
 | Week 5 | [Lab 5 RMD](lab5/lab05-wrangling-gam.Rmd) | [Lab 5 HTML](lab5/lab05-wrangling-gam.html) |
 | Week 6 | [Lab 6 RMD](lab6/06-lab.Rmd) | [Lab 6 HTML](lab6/06-lab.html) |
 | Week 8 | [Lab 8 RMD](lab8/08lab-text-mining.Rmd) | [Lab 8 HTML](lab8/08lab-text-mining.html) |
-| Week 9 | Lab 9 RMD | Lab 9 HTML |
+| Week 9 | [Lab 9 RMD](lab9/lab09-hpc.Rmd) | [Lab 9 HTML](lab9/lab09-hpc.html) |
 | Week 10 | Lab 10 RMD | Lab 10 HTML |
 | Week 11 | Lab 11 RMD | Lab 11 HTML |
 | Week 12 | Lab 12 RMD | Lab 12 HTML |
@@ -36,7 +36,7 @@ Each week, lab materials are provided as both R Markdown (`.Rmd`) files and rend
 To work with the lab files:
 1. Clone this repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/JSC370-Labs.git
+   git clone https://github.com/JanisJ2/JSC370-labs.git
    ```
 2. Open any `.Rmd` file in RStudio to edit or render it.
 3. View the HTML files in your browser for an easy preview of lab results.
