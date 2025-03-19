@@ -28,8 +28,8 @@ Each week, lab materials are provided as both R Markdown (`.Rmd`) files and rend
 | Week 6 | [Lab 6 RMD](lab6/06-lab.Rmd) | [Lab 6 HTML](lab6/06-lab.html) |
 | Week 8 | [Lab 8 RMD](lab8/08lab-text-mining.Rmd) | [Lab 8 HTML](lab8/08lab-text-mining.html) |
 | Week 9 | [Lab 9 RMD](lab9/lab09-hpc.Rmd) | [Lab 9 HTML](lab9/lab09-hpc.html) |
-| Week 10 | Lab 10 RMD | Lab 10 HTML |
-| Week 11 | Lab 11 RMD | Lab 11 HTML |
+| Week 10 | [Lab 10 RMD](lab10/lab10-ml.Rmd) | [Lab 10 HTML](lab10/lab10-ml.html) |
+| Week 11 | [Lab 11 RMD](lab11/lab11-interactive-viz1.Rmd) | [Lab 11 HTML](lab11/lab11-interactive-viz1.html) |
 | Week 12 | Lab 12 RMD | Lab 12 HTML |
 
 ## Getting Started
