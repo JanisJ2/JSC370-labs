@@ -30,7 +30,7 @@ Each week, lab materials are provided as both R Markdown (`.Rmd`) files and rend
 | Week 9 | [Lab 9 RMD](lab9/lab09-hpc.Rmd) | [Lab 9 HTML](lab9/lab09-hpc.html) |
 | Week 10 | [Lab 10 RMD](lab10/lab10-ml.Rmd) | [Lab 10 HTML](lab10/lab10-ml.html) |
 | Week 11 | [Lab 11 RMD](lab11/lab11-interactive-viz1.Rmd) | [Lab 11 HTML](lab11/lab11-interactive-viz1.html) |
-| Week 12 | Lab 12 RMD | Lab 12 HTML |
+| Week 12 | [Lab 12 Repo](https://github.com/JanisJ2/jsc370-lab12demo) |  |
 
 ## Getting Started
 To work with the lab files:
